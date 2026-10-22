@@ -8,11 +8,11 @@ Este projeto apresenta o **Método de Gestão de Silvanio Gois**, fundamentado n
 
 A abordagem tem como objetivo ir além do gerenciamento de tarefas, buscando **construir e otimizar sistemas capazes de entregar eficiência, previsibilidade e crescimento**.
 
-🌐 **[Acesse o Método de Gestão de Silvanio Gois](https://silvaniosg.github.io/O_Metodo_de_Gestao_de_Silvanio_Gois/)**
+**[Acesse o Método de Gestão de Silvanio Gois](https://silvaniosg.github.io/O_Metodo_de_Gestao_de_Silvanio_Gois/)**
 
 ---
 
-## 🎯 O Método
+## O Método
 
 A metodologia parte de uma visão estruturada da gestão, utilizando diagnóstico, planejamento, execução, acompanhamento e mensuração de resultados.
 
@@ -20,14 +20,14 @@ A proposta é transformar problemas e processos em sistemas de gestão capazes d
 
 O método está apoiado em quatro pilares principais:
 
-* 🔎 **Análise e otimização de processos**
-* 📊 **Planejamento estratégico e financeiro**
-* 👥 **Liderança e gestão de pessoas**
-* 📈 **Documentação e resultados quantificados**
+* **Análise e otimização de processos**
+* **Planejamento estratégico e financeiro**
+* **Liderança e gestão de pessoas**
+* **Documentação e resultados quantificados**
 
 ---
 
-## 🔎 Análise e Otimização de Processos
+## Análise e Otimização de Processos
 
 O ponto de partida é o **diagnóstico rigoroso dos processos**.
 
@@ -45,7 +45,7 @@ O objetivo é identificar onde estão as ineficiências e aplicar soluções est
 
 ---
 
-## 📊 Planejamento Estratégico e Financeiro
+## Planejamento Estratégico e Financeiro
 
 O método conecta a visão estratégica à execução.
 
@@ -62,7 +62,7 @@ Dessa forma, planejamento e execução permanecem conectados aos objetivos estra
 
 ---
 
-## 👥 Liderança e Gestão de Pessoas
+## Liderança e Gestão de Pessoas
 
 A liderança é baseada em **comunicação assertiva e foco em objetivos comuns**.
 
@@ -72,7 +72,7 @@ O método reconhece a gestão de pessoas e o alinhamento entre as partes interes
 
 ---
 
-## 📈 Documentação e Resultados Quantificados
+## Documentação e Resultados Quantificados
 
 Um dos princípios apresentados no método é que a **credibilidade está nos números**.
 
@@ -84,7 +84,7 @@ Essa estrutura permite demonstrar não apenas o que foi realizado, mas também a
 
 ---
 
-## 🧩 Base Técnica
+## Base Técnica
 
 A abordagem apresentada é construída sobre uma base técnica relacionada à **Administração e Edificações**, aprofundada pela formação em **Processos Gerenciais**.
 
@@ -101,7 +101,7 @@ Entre os conceitos e ferramentas destacados estão:
 
 ---
 
-## 🚀 Aplicação do Método
+## Aplicação do Método
 
 O método é apresentado por meio de projetos e estudos de caso relacionados a:
 
@@ -116,7 +116,7 @@ A proposta é demonstrar a aplicação prática da metodologia e seus respectivo
 
 ---
 
-## 📚 Portfólio de Gestão
+## Portfólio de Gestão
 
 A página organiza a experiência profissional em quatro áreas de exploração:
 
@@ -138,13 +138,13 @@ Apresentação da formação, valores, trajetória e motivação pessoal relacio
 
 ---
 
-## 🔗 Projeto
+## Projeto
 
 **[Acesse o Método de Gestão de Silvanio Gois](https://silvaniosg.github.io/O_Metodo_de_Gestao_de_Silvanio_Gois/)**
 
 ---
 
-## 🌐 Conecte-se
+## Conecte-se
 
 ### Site
 
